@@ -1,0 +1,59 @@
+
+Library/
+Temp/
+Obj/
+UnityGenerated/
+.vscode/
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.sln
+*.suo
+*.user
+*.tmproj
+*.csproj
+*.pidb
+*.pdb
+*.mdb
+*.meta
+*.prefab
+*.mat 
+*.cubemap
+*.log 
+*.asset 
+*.resources
+
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Android
+/*/build/
+/*/local.properties
+/*/captures/
+
+# iOS
+/build/
+/*.xcodeproj/
+!*.xcodeproj/project.pbxproj
+
+
+
